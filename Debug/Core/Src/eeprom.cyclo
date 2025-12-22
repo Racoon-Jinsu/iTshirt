@@ -1,0 +1,5 @@
+../Core/Src/eeprom.c:29:5:WriteByte	2
+../Core/Src/eeprom.c:43:5:ReadByte	2
+../Core/Src/eeprom.c:57:5:WritePage	2
+../Core/Src/eeprom.c:69:5:ReadPage	2
+../Core/Src/eeprom.c:82:6:Verify	2
